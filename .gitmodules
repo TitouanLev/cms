@@ -1,0 +1,3 @@
+[submodule "laradock-dawin-t3"]
+	path = laradock-dawin-alt-2019
+	url = https://github.com/pitchart/laradock.git

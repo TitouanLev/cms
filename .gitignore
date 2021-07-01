@@ -1,0 +1,22 @@
+/composer.lock
+/vendor/
+
+/web/typo3conf/*
+#!/web/typo3conf/LocalConfiguration.php
+!/web/typo3conf/AdditionalConfiguration.php
+!/web/typo3conf/l10n
+
+/web/typo3conf/ext/*
+# !/web/typo3conf/ext/<your_site_package>
+
+/web/FIRST_INSTALL
+/web/fileadmin
+/web/uploads
+/web/typo3temp
+/web/typo3
+/web/index.php
+
+/var/cache/*
+!/var/cache/.gitkeep
+/var/log/*
+!/var/log/.gitkeep
